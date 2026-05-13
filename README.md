@@ -172,25 +172,6 @@ NAND(T1,C) -> F
 ```
 
 ---
-
-## Why This Project Is Useful
-
-This project helps understand:
-
-- Boolean function optimization
-- Logic synthesis
-- Hardware implementation
-- Universal gates
-- Digital circuit design
-
-It is highly useful for:
-- Digital Electronics courses
-- Computer Organization
-- VLSI fundamentals
-- Logic Design labs
-
----
-
 ## Advantages
 
 - Fully algorithmic minimization
@@ -198,20 +179,3 @@ It is highly useful for:
 - Supports don't-care optimization
 - Hardware-level realization support
 - Educational and practical implementation
-
----
-
-## Future Improvements
-
-- GUI visualization
-- Karnaugh Map visualization
-- Verilog/VHDL code generation
-- Circuit diagram generation
-- Multi-output optimization
-- Delay and power estimation
-
----
-
-## Author
-
-Developed as a Digital Logic Design and Boolean Optimization project to study logic minimization algorithms and gate-level synthesis.
